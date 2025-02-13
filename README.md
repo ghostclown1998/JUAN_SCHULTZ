@@ -24,10 +24,11 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Trabalho principalm
 
 ---
 
-### 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanpabloschultz&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpabloschultz&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghostclown1998&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostclown1998&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
