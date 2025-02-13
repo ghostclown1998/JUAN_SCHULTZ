@@ -25,13 +25,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Trabalho principalm
 ---
 
 
-### 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghostclown1998&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostclown1998&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📫 Contato
 - ✉️ Email: **ghost_2334@outlook.com*
 - 💼 LinkedIn: [linkedin.com/in/juan-pablo-schultz]((https://www.linkedin.com/in/juan-pablo-schultz-58895a162/))
