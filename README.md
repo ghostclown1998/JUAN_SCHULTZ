@@ -7,7 +7,7 @@ READ-ME
 ### 🚀 Sobre mim
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Trabalho principalmente com **React Native**, **JavaScript**, **Python** e **Django**, criando soluções escaláveis e eficientes.
 
-💼 CEO da [srcseven](https://github.com/srcseven) | Parceiro da ONU 🌍 Parceiro ATOM 🚀  Parceiro DAYA 💫
+💼 CEO da [srcseven](https://github.com/srcsevenn) | Parceiro da ONU 🌍 Parceiro ATOM 🚀  Parceiro DAYA 💫
 
 📍 Baseado em **Curitiba, Brasil**
 
